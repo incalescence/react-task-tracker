@@ -15,8 +15,8 @@ function App() {
     },
     {
       id: 2,
-      text: "Feed the cat",
-      day: "today",
+      text: "Feed The Cat",
+      day: "This Afternoon",
       reminder: true,
     },
   ]);
